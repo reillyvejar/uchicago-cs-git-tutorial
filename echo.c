@@ -1,6 +1,7 @@
 /* echo.c - echo user input */
 /* [AUTHOR GOES HERE] */
 /* Last updated: 3/28/22 */
+/* test */
 
 #include <stdio.h>
 #include <stdlib.h>
