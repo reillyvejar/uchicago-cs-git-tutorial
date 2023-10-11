@@ -1,5 +1,5 @@
 /* echo.c - echo user input */
-/* [AUTHOR GOES HERE] */
+/* Reilly Vejar */
 /* Last updated: 3/28/22 */
 /* test #3 */
 
